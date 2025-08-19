@@ -1,0 +1,40 @@
+Align process template to AgileVolvoStandard - DRAFT
+
+1.Identify discrepancies between source and target process templates
+	WorkItemTypes (WITs)
+	Fields
+	Field values, eg States
+	Backlog Levels
+	Rules
+
+2.Validate and decide which customizations are really in use and value-adding
+ - if yes, customizations will be brough forward to target
+ - if not, will be rejected
+
+3.Map all valdated fields and states source vs target, in an offline xls (link to template)
+
+4.Backup all validated fields and states eg to xls, using Azure DevOps - xls connector (link)
+
+5a. If target is pure AgileVolvoStandard
+	
+	5a1. Alignment of fields
+	Add missing standard fileds from target to source process template
+	Bulk edit to poulate added standard fields
+	Switch process template (link)
+	
+	5a2. Alignment of states
+	Make necessary states adjistments with xls, using backup, created in 3. above
+	
+	{Alignment of WITs TBC}
+
+5b. If target is broad 
+AgileVolvoStandard
+	
+	5b1. Alignment of fields
+	Add validated customized fileds from source to target process template
+	Switch process template (link)
+	
+	5b2. Alignment of states
+	Make necessary states adjistments with xls, using backup, created in 3. above
+	
+	{Alignment of WITs TBC}
