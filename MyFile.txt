@@ -1,0 +1,29 @@
+Athos mapping
+
+Task 
+To Do New
+Testing Verification
+Rejected STATE TO BE REMOVED
+
+User Story 
+Custom.Reporter Custom.Requestedby
+Ready for Development Approved (Proposed) DONE
+In Testing Verification
+Business Review Ready for Deploy
+
+Bug
+Ready for Development Active DONE
+In Testing Active
+Business Review Active
+
+Improvement
+Custom.Reporter Custom.Requestedby
+In Testing Verification
+Business Review Ready for Deploy
+
+Epic
+Custom.Reporter Custom.Requestedby
+Business Review  STATE TO BE REMOVED
+
+Feature
+Business Review  STATE TO BE REMOVED
