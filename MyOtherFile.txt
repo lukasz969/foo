@@ -1,4 +1,4 @@
-Align process template to AgileVolvoStandard - DRAFT
+Align process template to AgileVolvoStandard - DRAFT updated
 
 1.Identify discrepancies between source and target process templates
 	WorkItemTypes (WITs)
